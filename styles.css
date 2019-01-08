@@ -16,3 +16,6 @@ img {
 .box {
     flex: 33%;
 }
+a:hover {
+    color:#004a7f;
+}
