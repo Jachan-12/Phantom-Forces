@@ -12,6 +12,7 @@ img {
 }
 .grid {
     display: flex;
+    margin-right:5px;
 }
 .box {
     flex: 33%;
